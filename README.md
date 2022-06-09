@@ -23,7 +23,7 @@ The main code language, libraries and frameworks used in this project:
 
 ## Getting Started
 No prerequisites or installation needed. Since the application is already deployed, the client just need to enter in the following web page:
-[Duck Duck Go](https://duckduckgo.com)
+[https://yelpcamp-andreiacifoni.herokuapp.com/](https://yelpcamp-andreiacifoni.herokuapp.com/)
 
 ## Usage
 When entering for the first time in the YelpCamp page, the user is allowed to view the list of campgrounds and coments but he/she will not be authorized to further actions.
